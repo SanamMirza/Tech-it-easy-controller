@@ -1,6 +1,5 @@
 package nl.novi.techiteasysb.Controllers;
 
-import Service.Television;
 import nl.novi.techiteasysb.Exceptions.RecordNotFoundException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
